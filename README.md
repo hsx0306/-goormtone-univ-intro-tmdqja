@@ -1,1 +1,6 @@
-# -goormtone-univ-intro-tmdqja
+# 🙋‍♂️ 자기소개
+
+- 이름: 황승범
+- 전공: 컴퓨터공학과
+- 관심 분야: 백엔드
+- 블로그: https://velog.io/@hsx0306
